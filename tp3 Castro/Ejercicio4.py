@@ -1,0 +1,1 @@
+# 4_Escribir un programa, para leer un archivo línea por línea y almacenarlo en una lista.
